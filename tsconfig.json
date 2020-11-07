@@ -4,7 +4,7 @@
     "module": "commonjs",
     "strict": true,
     "esModuleInterop": true,
-    "outDir": "./build",
+    "outDir": "./dist",
     "inlineSourceMap": true,
     "resolveJsonModule": true,
     "experimentalDecorators": true,

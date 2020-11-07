@@ -2,7 +2,10 @@
 node_modules
 
 # tsc
-build
+dist
 
 # jest
 coverage
+
+# test zips
+*.tgz

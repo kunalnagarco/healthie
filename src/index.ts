@@ -1,0 +1,1 @@
+export { handleHealthCheck } from './middleware';

@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-import { handleHealthCheck } from '../src/middleware';
+import { handleHealthCheck } from '../src';
 
 jest.mock('express', () => ({
   Router: jest.fn(() => ({

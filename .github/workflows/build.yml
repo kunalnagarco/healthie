@@ -18,3 +18,5 @@ jobs:
         run: npm run lint
       - name: Create npm build
         run: npm run build
+      - name: Create npm tarball (dry-run)
+        run: npm pack
