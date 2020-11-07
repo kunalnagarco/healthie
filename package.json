@@ -1,6 +1,6 @@
 {
   "name": "@kunalnagarco/healthie",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "A health check middleware for Express.js applications",
   "main": "dist/index.js",
   "files": [
