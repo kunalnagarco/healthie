@@ -1,12 +1,11 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Router } from 'express';
 
-import handleHealthCheck from '../src/middleware';
+import { handleHealthCheck } from '../src/middleware';
 
 jest.mock('express', () => ({
-  Router: () => ({
+  Router: jest.fn(() => ({
     get: jest.fn(),
-  }),
+  })),
 }));
 
 describe('src/middleware', () => {

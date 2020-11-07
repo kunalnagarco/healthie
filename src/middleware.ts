@@ -3,7 +3,7 @@ import { Router } from 'express';
 
 import { healthCheckRoute } from './route';
 
-export default function () {
-  const router = Router();
-  return router.get('/health', healthCheckRoute);
-}
+export const handleHealthCheck = (): Router => {
+  console.log(Router);
+  return Router().get('/health', healthCheckRoute);
+};
