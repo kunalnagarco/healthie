@@ -11,6 +11,7 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch --coverage",
     "lint": "eslint src/ --ext .ts --max-warnings 0",
+    "release": "standard-version",
     "deploy": "sh ./scripts/deploy.sh"
   },
   "keywords": [],
