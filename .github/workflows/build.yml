@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-18.04
-    - uses: actions/setup-node@v1
+    - uses: actions/setup-node@v2-beta
       with:
         node-version: '14'
     steps:
