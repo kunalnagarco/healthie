@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# tsc
+build
+
+# jest
+coverage
