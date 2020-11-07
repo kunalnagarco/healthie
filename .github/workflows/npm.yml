@@ -19,4 +19,4 @@ jobs:
       - name: Authenticate with the npm registry
         run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
       - name: Release to npm
-        run: npm publish
+        run: npm publish --access public
