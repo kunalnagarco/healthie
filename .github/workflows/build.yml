@@ -18,5 +18,11 @@ jobs:
         run: npm run lint
       - name: Create npm build
         run: npm run build
+      - name: Run tests
+        run: npm test
+      - name: Upload test coverage
+        uses: codecov/codecov-action@v1
+        with:
+          verbose: true
       - name: Create npm tarball (dry-run)
         run: npm pack
