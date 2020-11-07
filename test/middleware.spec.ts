@@ -1,16 +1,17 @@
-import { Router } from 'express';
-
 import { handleHealthCheck } from '../src';
+
+const mockRouterGet = jest.fn();
 
 jest.mock('express', () => ({
   Router: () => ({
-    get: jest.fn(),
+    get: mockRouterGet,
   }),
 }));
 
 describe('src/middleware', () => {
   it('handleHealthCheck: should set the healthcheck endpoint to GET /health', () => {
     handleHealthCheck();
-    expect(Router().get).toHaveBeenCalledTimes(1);
+    expect(mockRouterGet).toHaveBeenCalledTimes(1);
+    expect(mockRouterGet).toHaveBeenCalledWith('/health', expect.any(Function));
   });
 });
