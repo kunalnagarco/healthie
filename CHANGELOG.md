@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/kunalnagar/healthie/compare/v1.1.0...v1.1.1) (2020-11-07)
+
+
+### Bug Fixes
+
+* Add public access flag to npm publish ([bdd2d94](https://github.com/kunalnagar/healthie/commit/bdd2d9410b76b5e2749b29b857e13eda1bba59f9))
+
 ## [1.1.0](https://github.com/kunalnagar/healthie/compare/v1.0.0...v1.1.0) (2020-11-07)
 
 
