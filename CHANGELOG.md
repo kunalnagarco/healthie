@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/kunalnagar/healthie/compare/v1.0.0...v1.1.0) (2020-11-07)
+
+
+### Features
+
+* Add npm release action ([23f70c8](https://github.com/kunalnagar/healthie/commit/23f70c8b5f66f1952ed037690633f2b530649ef6))
+
 ## 1.0.0 (2020-11-07)
 
 
