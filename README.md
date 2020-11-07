@@ -4,6 +4,12 @@
 
 A health check middleware for Express.js applications.
 
+## Installation
+
+```
+npm install --save @kunalnagarco/healthie
+```
+
 ## Usage
 
 ```js
