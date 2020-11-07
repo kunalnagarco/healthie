@@ -6,19 +6,19 @@ A health check middleware for Express.js applications.
 
 ## Usage
 
-```
-const express = require('express')
-const app = express()
-const { handleHealthCheck } = require('@kunalnagarco/healthie')
+```js
+const express = require('express');
+const app = express();
+const { handleHealthCheck } = require('@kunalnagarco/healthie');
 
-app.use(handleHealthCheck())
+app.use(handleHealthCheck());
 ```
 
 ## Result
 
 Visit `/health` and you should see the following:
 
-```
+```json
 {
   "uptime": 36.883064168, // process.uptime
   "status": "OK"
