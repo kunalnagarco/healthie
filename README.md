@@ -1,6 +1,8 @@
 # @kunalnagarco/healthie
 
 [![codecov](https://codecov.io/gh/kunalnagar/healthie/branch/master/graph/badge.svg?token=J3NbY7brTh)](https://codecov.io/gh/kunalnagar/healthie)
+[![npm](https://badgen.net/npm/v/@kunalnagarco/healthie)](https://www.npmjs.com/package/@kunalnagarco/healthie)
+[![bundlephobia](https://badgen.net/bundlephobia/min/@kunalnagarco/healthie)](https://bundlephobia.com/result?p=@kunalnagarco/healthie@latest)
 
 A health check middleware for Express.js applications.
 
