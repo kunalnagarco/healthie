@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/kunalnagar/healthie/compare/v1.1.2...v1.1.3) (2020-11-08)
+
+
+### Chores
+
+* Add express to peerDependencies ([6659f65](https://github.com/kunalnagar/healthie/commit/6659f65b72543f8347fe563f59622859ce3bc282))
+
 ### [1.1.2](https://github.com/kunalnagar/healthie/compare/v1.1.1...v1.1.2) (2020-11-08)
 
 
