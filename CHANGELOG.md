@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/kunalnagar/healthie/compare/v1.1.4...v1.1.5) (2020-12-16)
+
+
+### Chores
+
+* **deps:** bump ini from 1.3.5 to 1.3.8 ([#1](https://github.com/kunalnagar/healthie/issues/1)) ([04cc2c5](https://github.com/kunalnagar/healthie/commit/04cc2c510fcf6a3e0c96726a87884de140b4b333))
+
 ### [1.1.4](https://github.com/kunalnagar/healthie/compare/v1.1.3...v1.1.4) (2020-11-08)
 
 
