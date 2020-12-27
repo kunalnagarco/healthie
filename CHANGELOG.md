@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.6](https://github.com/kunalnagar/healthie/compare/v1.1.5...v1.1.6) (2020-12-27)
+
+
+### Chores
+
+* **deps:** bump node-notifier from 8.0.0 to 8.0.1 ([#2](https://github.com/kunalnagar/healthie/issues/2)) ([d3410db](https://github.com/kunalnagar/healthie/commit/d3410db1913187c1237b4dd752088aeee99a0fe1))
+
 ### [1.1.5](https://github.com/kunalnagar/healthie/compare/v1.1.4...v1.1.5) (2020-12-16)
 
 
