@@ -1,14 +1,11 @@
-name: Build
+name: Release to npm
 
 on:
-  push:
-    branches:
-      - '**'
-    tags-ignore:
-      - '*.*'
+  release:
+    types: [published]
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,13 +18,9 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install dependencies
         run: yarn install --frozen-lockfile
-      - name: Lint code
-        run: yarn lint
       - name: Create build
         run: yarn build
-      - name: Run tests
-        run: yarn test
-      - name: Upload test coverage
-        uses: codecov/codecov-action@v1
-      - name: Create release tarball (dry-run)
-        run: yarn pack
+      - name: Authenticate with the npm registry
+        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
+      - name: Release to npm
+        run: yarn publish --access public
