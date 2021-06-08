@@ -30,4 +30,4 @@ jobs:
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
       - name: Create release tarball (dry-run)
-        run: yarn release -- --dry-run
+        run: yarn pack
