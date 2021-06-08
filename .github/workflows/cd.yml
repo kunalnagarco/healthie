@@ -23,7 +23,8 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Create build
         run: yarn build
-      - name: Authenticate with the npm registry
-        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
-      - name: Release to npm
-        run: yarn publish
+      - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: yarn release
