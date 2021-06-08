@@ -1,4 +1,4 @@
-name: Release to npm
+name: Continuous Deployment
 
 on:
   release:
@@ -23,4 +23,4 @@ jobs:
       - name: Authenticate with the npm registry
         run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
       - name: Release to npm
-        run: yarn publish --access public
+        run: yarn publish

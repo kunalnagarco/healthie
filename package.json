@@ -6,6 +6,7 @@
   "files": [
     "dist/*"
   ],
+  "access": "public",
   "scripts": {
     "build": "tsc",
     "test": "jest --coverage",
