@@ -1,15 +1,18 @@
 name: Continuous Deployment
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - 'master'
+    tags-ignore:
+      - '*.*'
 
 jobs:
   release:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [10.x, 12.x, 14.x, 15.x, 16.x]
+        node-version: [12.x, 14.x, 15.x, 16.x]
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
@@ -20,7 +23,8 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Create build
         run: yarn build
-      - name: Authenticate with the npm registry
-        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
-      - name: Release to npm
-        run: yarn publish
+      - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: yarn release
