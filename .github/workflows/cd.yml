@@ -1,8 +1,11 @@
 name: Continuous Deployment
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - 'master'
+    tags-ignore:
+      - '*.*'
 
 jobs:
   release:
