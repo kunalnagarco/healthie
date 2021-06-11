@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.2](https://github.com/kunalnagarco/healthie/compare/v1.2.1...v1.2.2) (2021-06-11)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v9.0.3 ([c808e19](https://github.com/kunalnagarco/healthie/commit/c808e19bbdb29b414bb0a6f8b66f76c08ca66cbe))
+
 ### [1.2.1](https://github.com/kunalnagarco/healthie/compare/v1.2.0...v1.2.1) (2021-06-11)
 
 
