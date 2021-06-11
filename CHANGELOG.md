@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://github.com/kunalnagarco/healthie/compare/v1.2.0...v1.2.1) (2021-06-11)
+
+
+### Chores
+
+* **deps:** pin dependencies ([d3e4833](https://github.com/kunalnagarco/healthie/commit/d3e483387fdf57e94b2f7047aa28f159c42a82c2))
+
 ## [1.2.0](https://github.com/kunalnagarco/healthie/compare/v1.1.6...v1.2.0) (2021-06-08)
 
 
