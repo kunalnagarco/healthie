@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.13](https://github.com/kunalnagarco/healthie/compare/v1.2.12...v1.2.13) (2021-06-26)
+
+
+### Chores
+
+* **deps:** update dependency prettier to v2.3.2 ([3745b4a](https://github.com/kunalnagarco/healthie/commit/3745b4a50462e19e72206487c8cdd5d0c4eb7004))
+
 ### [1.2.12](https://github.com/kunalnagarco/healthie/compare/v1.2.11...v1.2.12) (2021-06-21)
 
 
