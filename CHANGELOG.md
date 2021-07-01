@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.18](https://github.com/kunalnagarco/healthie/compare/v1.2.17...v1.2.18) (2021-07-01)
+
+
+### Chores
+
+* **deps:** update node.js to v14.17.2 ([0af584d](https://github.com/kunalnagarco/healthie/commit/0af584dbc5e2fde8947d506ad2afe971767dee48))
+
 ### [1.2.17](https://github.com/kunalnagarco/healthie/compare/v1.2.16...v1.2.17) (2021-07-01)
 
 
