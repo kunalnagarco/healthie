@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.24](https://github.com/kunalnagarco/healthie/compare/v1.2.23...v1.2.24) (2021-07-06)
+
+
+### Chores
+
+* **deps:** update dependency @types/jest to v26.0.24 ([d120be6](https://github.com/kunalnagarco/healthie/commit/d120be63236185e6de142f932e7267499a1ecc3f))
+
 ### [1.2.23](https://github.com/kunalnagarco/healthie/compare/v1.2.22...v1.2.23) (2021-07-06)
 
 
