@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.23](https://github.com/kunalnagarco/healthie/compare/v1.2.22...v1.2.23) (2021-07-06)
+
+
+### Chores
+
+* **deps:** update dependency @types/express to v4.17.13 ([22dc275](https://github.com/kunalnagarco/healthie/commit/22dc27548b48d0613dd8a09dd061f1186e6fa514))
+
 ### [1.2.22](https://github.com/kunalnagarco/healthie/compare/v1.2.21...v1.2.22) (2021-07-05)
 
 
