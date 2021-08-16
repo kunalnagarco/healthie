@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.42](https://github.com/kunalnagarco/healthie/compare/v1.2.41...v1.2.42) (2021-08-16)
+
+
+### Chores
+
+* **deps:** update dependency semantic-release to v17.4.5 ([5ce26d5](https://github.com/kunalnagarco/healthie/commit/5ce26d5b55445b50fdadfb1453807d156801b01f))
+
 ### [1.2.41](https://github.com/kunalnagarco/healthie/compare/v1.2.40...v1.2.41) (2021-08-14)
 
 
