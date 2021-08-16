@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.43](https://github.com/kunalnagarco/healthie/compare/v1.2.42...v1.2.43) (2021-08-16)
+
+
+### Chores
+
+* **deps:** update typescript-eslint monorepo to v4.29.2 ([5e7c9d8](https://github.com/kunalnagarco/healthie/commit/5e7c9d83e18a990df8c0032532ec7f102019ac19))
+
 ### [1.2.42](https://github.com/kunalnagarco/healthie/compare/v1.2.41...v1.2.42) (2021-08-16)
 
 
