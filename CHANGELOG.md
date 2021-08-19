@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.45](https://github.com/kunalnagarco/healthie/compare/v1.2.44...v1.2.45) (2021-08-19)
+
+
+### Chores
+
+* **deps:** update dependency eslint-plugin-import to v2.24.1 ([9475c19](https://github.com/kunalnagarco/healthie/commit/9475c195416221cb51669fe159c3855b46b6051b))
+
 ### [1.2.44](https://github.com/kunalnagarco/healthie/compare/v1.2.43...v1.2.44) (2021-08-17)
 
 
