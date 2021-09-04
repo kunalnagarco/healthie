@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.52](https://github.com/kunalnagarco/healthie/compare/v1.2.51...v1.2.52) (2021-09-04)
+
+
+### Chores
+
+* **deps:** update node.js to v14.17.6 ([de6103e](https://github.com/kunalnagarco/healthie/commit/de6103e8a9fa11e1e70ca77d2aeb977279215553))
+
 ### [1.2.51](https://github.com/kunalnagarco/healthie/compare/v1.2.50...v1.2.51) (2021-09-01)
 
 
