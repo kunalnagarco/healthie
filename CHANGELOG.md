@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.54](https://github.com/kunalnagarco/healthie/compare/v1.2.53...v1.2.54) (2021-09-05)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/git to v9.0.1 ([659d793](https://github.com/kunalnagarco/healthie/commit/659d793518531a1e4a23ceca617e8c13823a7cd5))
+
 ### [1.2.53](https://github.com/kunalnagarco/healthie/compare/v1.2.52...v1.2.53) (2021-09-04)
 
 
