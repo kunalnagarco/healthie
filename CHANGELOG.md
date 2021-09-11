@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.57](https://github.com/kunalnagarco/healthie/compare/v1.2.56...v1.2.57) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency typescript to v4.4.3 ([c25832f](https://github.com/kunalnagarco/healthie/commit/c25832fc5063ad0f499a8303e10325314b55b1a2))
+
 ### [1.2.56](https://github.com/kunalnagarco/healthie/compare/v1.2.55...v1.2.56) (2021-09-11)
 
 
