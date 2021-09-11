@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.59](https://github.com/kunalnagarco/healthie/compare/v1.2.58...v1.2.59) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency sort-package-json to v1.51.0 ([ded8aa0](https://github.com/kunalnagarco/healthie/commit/ded8aa0bf9499cfaba62c6f9331b7b51463d1daf))
+
 ### [1.2.58](https://github.com/kunalnagarco/healthie/compare/v1.2.57...v1.2.58) (2021-09-11)
 
 
