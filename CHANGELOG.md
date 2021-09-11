@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.56](https://github.com/kunalnagarco/healthie/compare/v1.2.55...v1.2.56) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency conventional-changelog-conventionalcommits to v4.6.1 ([2da0ecf](https://github.com/kunalnagarco/healthie/commit/2da0ecf10017d4be53f8fd424592ecbf3eabbd2c))
+
 ### [1.2.55](https://github.com/kunalnagarco/healthie/compare/v1.2.54...v1.2.55) (2021-09-06)
 
 
