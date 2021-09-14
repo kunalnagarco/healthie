@@ -35,7 +35,6 @@ jobs:
         with:
           name: artifacts
           path: |
-            node_modules
             dist
             coverage
             .gitignore
