@@ -30,6 +30,7 @@ jobs:
       - name: Create release tarball (dry-run)
         run: yarn pack
       - name: Archive production artifacts
+        if: matrix.node-version == '14.x'
         uses: actions/upload-artifact@v2
         with:
           name: artifacts
