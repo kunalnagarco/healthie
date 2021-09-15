@@ -36,6 +36,7 @@ jobs:
           path: |
             dist
             coverage
+            .git
             .gitignore
             README.md
             CHANGELOG.md
