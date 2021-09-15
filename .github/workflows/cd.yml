@@ -17,7 +17,7 @@ jobs:
           workflow: ci.yml
       - name: Move artifacts to current working directory
         run: |
-          mv artifact/* .
+          mv artifact/{,.[^.]}* .
           rm -rf artifact
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
