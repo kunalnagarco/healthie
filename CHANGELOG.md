@@ -1,5 +1,25 @@
 # Changelog
 
+### [1.2.62](https://github.com/kunalnagarco/healthie/compare/v1.2.61...v1.2.62) (2021-09-15)
+
+
+### Bug Fixes
+
+* Dependency workflows ([db361c2](https://github.com/kunalnagarco/healthie/commit/db361c23294a2479375696c0483ff2920c9dfb23))
+* Download artifact path ([9bf7b47](https://github.com/kunalnagarco/healthie/commit/9bf7b474836292eef85b7a00b82eca3ef7d80346))
+* Move artifacts out of folder ([014f80f](https://github.com/kunalnagarco/healthie/commit/014f80f5e67e8fdae3b803f4af8b6bb0ea4996bb))
+* mv command ([0ddc17a](https://github.com/kunalnagarco/healthie/commit/0ddc17a43237b59192ba8e4175ece1fd96a8ccad))
+* Persist .git folder ([de746b4](https://github.com/kunalnagarco/healthie/commit/de746b463a42d539c9f90feaa6a28b37a1866f25))
+* Remove artifact name ([5234b32](https://github.com/kunalnagarco/healthie/commit/5234b327dc27e09aa8dcfa0511cbc9ba45e6913a))
+* Revert back CI and CD workflows ([8ff12fc](https://github.com/kunalnagarco/healthie/commit/8ff12fc2422316eeca47107aded0389180d7d46d))
+* Update artifact extract path ([6c59463](https://github.com/kunalnagarco/healthie/commit/6c5946363449423c85c5d3ba5e0cb0c39cb55fd5))
+* Use different artifact ([7c9dca0](https://github.com/kunalnagarco/healthie/commit/7c9dca0884f8026f96aaa739550b7c0b2ac0a31e))
+
+
+### Chores
+
+* Fix workflow failures ([#31](https://github.com/kunalnagarco/healthie/issues/31)) ([4042904](https://github.com/kunalnagarco/healthie/commit/4042904dff2dd53b81d06e9e91d7bbe71691d2b7))
+
 ### [1.2.61](https://github.com/kunalnagarco/healthie/compare/v1.2.60...v1.2.61) (2021-09-14)
 
 
