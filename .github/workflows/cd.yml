@@ -15,10 +15,16 @@ jobs:
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: ci.yml
+      - name: Move artifacts to current working directory
+        run: |
+          mv artifact/* .
+          rm -rf artifact
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: |
+          ls -al
+          yarn install --frozen-lockfile
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
