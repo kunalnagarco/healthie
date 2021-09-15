@@ -15,6 +15,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: ci.yml
+          path: .
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
       - name: Install dependencies
