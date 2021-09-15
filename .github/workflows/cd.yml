@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download production artifacts
-        uses: actions/download-artifact@v2
+        uses: dawidd6/action-download-artifact@v2
         with:
-          name: artifacts
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
+          workflow: ci.yml
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
