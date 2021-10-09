@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.71](https://github.com/kunalnagarco/healthie/compare/v1.2.70...v1.2.71) (2021-10-09)
+
+
+### Chores
+
+* **deps:** update dependency lint-staged to v11.2.0 ([0844676](https://github.com/kunalnagarco/healthie/commit/0844676c6c02912c86c443988aed94cf45c20435))
+
 ### [1.2.70](https://github.com/kunalnagarco/healthie/compare/v1.2.69...v1.2.70) (2021-10-02)
 
 
