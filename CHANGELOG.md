@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.81](https://github.com/kunalnagarco/healthie/compare/v1.2.80...v1.2.81) (2021-10-24)
+
+
+### Bug Fixes
+
+* CVE-2021-3807 and CVE-2021-23440 ([#35](https://github.com/kunalnagarco/healthie/issues/35)) ([01ab056](https://github.com/kunalnagarco/healthie/commit/01ab0565bb3471313561f49392b312cfd286fffe))
+
 ### [1.2.80](https://github.com/kunalnagarco/healthie/compare/v1.2.79...v1.2.80) (2021-10-24)
 
 
