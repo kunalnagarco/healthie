@@ -54,7 +54,7 @@
     "eslint-plugin-prettier": "3.4.1",
     "express": "4.17.1",
     "husky": "6.0.0",
-    "jest": "26.6.3",
+    "jest": "27.3.1",
     "lint-staged": "11.2.4",
     "prettier": "2.4.1",
     "semantic-release": "17.4.7",
@@ -66,10 +66,12 @@
     "express": "4.x"
   },
   "resolutions": {
-    "handlebars": "4.7.7"
+    "handlebars": "4.7.7",
+    "@semantic-release/**/*/ansi-regex": ">=5.0.1"
   },
   "resolutions:comments": {
-    "handlebars": "Remote Code Execution (RCE) when selecting certain compiling options to compile templates coming from an untrusted source - https://nvd.nist.gov/vuln/detail/CVE-2021-23369"
+    "handlebars": "Remote Code Execution (RCE) when selecting certain compiling options to compile templates coming from an untrusted source - https://nvd.nist.gov/vuln/detail/CVE-2021-23369",
+    "@semantic-release/**/*/ansi-regex": "Inefficient Regular Expression Complexity in chalk/ansi-regex - https://nvd.nist.gov/vuln/detail/CVE-2021-3807"
   },
   "dependencies": {}
 }
