@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/kunalnagarco/healthie/compare/v1.2.82...v1.3.0) (2021-11-11)
+
+
+### Features
+
+* Add 17.x to CI build ([#37](https://github.com/kunalnagarco/healthie/issues/37)) ([8bd6a8c](https://github.com/kunalnagarco/healthie/commit/8bd6a8c617d87d6df39e670efd22664d0793018b))
+
 ### [1.2.82](https://github.com/kunalnagarco/healthie/compare/v1.2.81...v1.2.82) (2021-10-30)
 
 
