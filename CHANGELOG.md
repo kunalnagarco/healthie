@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.3.1](https://github.com/kunalnagarco/healthie/compare/v1.3.0...v1.3.1) (2021-12-23)
+
+
+### Chores
+
+* **deps:** update dependency eslint-plugin-import to v2.25.3 ([#38](https://github.com/kunalnagarco/healthie/issues/38)) ([bcde286](https://github.com/kunalnagarco/healthie/commit/bcde286723418ac9bee2e50b74979894cb800a7a))
+* **deps:** update node.js to v14.18.2 ([#39](https://github.com/kunalnagarco/healthie/issues/39)) ([8533d99](https://github.com/kunalnagarco/healthie/commit/8533d997d5535abca5b9b637aa19b1e3cded2942))
+
 ## [1.3.0](https://github.com/kunalnagarco/healthie/compare/v1.2.82...v1.3.0) (2021-11-11)
 
 
