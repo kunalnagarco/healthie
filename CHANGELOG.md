@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/kunalnagarco/healthie/compare/v1.3.1...v2.0.0) (2021-12-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node 15.x is now EOL
+
+### Features
+
+* Remove node 15 support ([#40](https://github.com/kunalnagarco/healthie/issues/40)) ([620778e](https://github.com/kunalnagarco/healthie/commit/620778e085cca0cab12f105a97a9c8e4a8dfaeff))
+
 ### [1.3.1](https://github.com/kunalnagarco/healthie/compare/v1.3.0...v1.3.1) (2021-12-23)
 
 
