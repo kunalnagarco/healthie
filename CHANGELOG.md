@@ -1,5 +1,15 @@
 # Changelog
 
+### [2.0.3](https://github.com/kunalnagarco/healthie/compare/v2.0.2...v2.0.3) (2022-01-19)
+
+
+### Chores
+
+* **deps:** update dependency conventional-changelog-conventionalcommits to v4.6.3 ([#42](https://github.com/kunalnagarco/healthie/issues/42)) ([47ee60a](https://github.com/kunalnagarco/healthie/commit/47ee60ab53b5b179f78298e12db685981d5443ab))
+* **deps:** update dependency express to v4.17.2 ([#43](https://github.com/kunalnagarco/healthie/issues/43)) ([fd29fee](https://github.com/kunalnagarco/healthie/commit/fd29feef1e47a8909b79a8e313121abe5287d6f1))
+* **deps:** update dependency jest to v27.4.7 ([#44](https://github.com/kunalnagarco/healthie/issues/44)) ([5cd9ac4](https://github.com/kunalnagarco/healthie/commit/5cd9ac4d45bd567b84f811cf0bb6f8f57fe32396))
+* **deps:** update dependency prettier to v2.5.1 ([#45](https://github.com/kunalnagarco/healthie/issues/45)) ([19419d5](https://github.com/kunalnagarco/healthie/commit/19419d59cc3ea9a1938b737605b30f5e351e2ead))
+
 ### [2.0.2](https://github.com/kunalnagarco/healthie/compare/v2.0.1...v2.0.2) (2021-12-27)
 
 
