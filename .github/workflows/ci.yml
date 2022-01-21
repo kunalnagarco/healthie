@@ -20,14 +20,14 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install
       - name: Lint code
-        run: yarn lint
+        run: npm run lint
       - name: Create build
-        run: yarn build
+        run: npm run build
       - name: Run tests
-        run: yarn test
+        run: npm test
       - name: Upload test coverage
         uses: codecov/codecov-action@v1
       - name: Create release tarball (dry-run)
-        run: yarn pack
+        run: npm pack
