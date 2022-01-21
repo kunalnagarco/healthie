@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.5](https://github.com/kunalnagarco/healthie/compare/v2.0.4...v2.0.5) (2022-01-21)
+
+
+### Chores
+
+* Switch to npm from yarn ([#47](https://github.com/kunalnagarco/healthie/issues/47)) ([a33b1aa](https://github.com/kunalnagarco/healthie/commit/a33b1aa10c8860f2c9a8e76867ffc632914b850b))
+
 ### [2.0.4](https://github.com/kunalnagarco/healthie/compare/v2.0.3...v2.0.4) (2022-01-19)
 
 
