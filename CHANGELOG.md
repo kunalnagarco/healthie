@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.6](https://github.com/kunalnagarco/healthie/compare/v2.0.5...v2.0.6) (2022-02-03)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#48](https://github.com/kunalnagarco/healthie/issues/48)) ([9ad6254](https://github.com/kunalnagarco/healthie/commit/9ad6254557d3a2654a26a9c9c11b126a73777efc))
+* **deps:** update dependency eslint to v8.8.0 ([#50](https://github.com/kunalnagarco/healthie/issues/50)) ([cd41284](https://github.com/kunalnagarco/healthie/commit/cd41284c471c0a660d0162c109266a80798b8a9c))
+* **deps:** update typescript-eslint monorepo to v5.10.2 ([#49](https://github.com/kunalnagarco/healthie/issues/49)) ([12dd85b](https://github.com/kunalnagarco/healthie/commit/12dd85bb829f151665c01eae8b29070f1c135e53))
+
 ### [2.0.5](https://github.com/kunalnagarco/healthie/compare/v2.0.4...v2.0.5) (2022-01-21)
 
 
