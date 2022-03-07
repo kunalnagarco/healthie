@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.8](https://github.com/kunalnagarco/healthie/compare/v2.0.7...v2.0.8) (2022-03-07)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#52](https://github.com/kunalnagarco/healthie/issues/52)) ([45e4534](https://github.com/kunalnagarco/healthie/commit/45e45340f8cf2c09e729c10b2c11280a82945f97))
+* **deps:** update dependency @semantic-release/npm to v9.0.1 ([#53](https://github.com/kunalnagarco/healthie/issues/53)) ([77a2430](https://github.com/kunalnagarco/healthie/commit/77a2430724e3ab50d16a51dc57987644eb2fd22c))
+* **deps:** update dependency express to v4.17.3 ([#54](https://github.com/kunalnagarco/healthie/issues/54)) ([d9a51cb](https://github.com/kunalnagarco/healthie/commit/d9a51cb7be1ad932db66c6d38a4c73a2f05031c1))
+
 ### [2.0.7](https://github.com/kunalnagarco/healthie/compare/v2.0.6...v2.0.7) (2022-02-14)
 
 
