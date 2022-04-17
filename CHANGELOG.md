@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.10](https://github.com/kunalnagarco/healthie/compare/v2.0.9...v2.0.10) (2022-04-17)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#56](https://github.com/kunalnagarco/healthie/issues/56)) ([c0ee0ed](https://github.com/kunalnagarco/healthie/commit/c0ee0ed375425ba4fff206789bab48794a99b530))
+* **deps:** update dependency @semantic-release/github to v8.0.4 ([#57](https://github.com/kunalnagarco/healthie/issues/57)) ([57e867a](https://github.com/kunalnagarco/healthie/commit/57e867a0f9da0a5dc51e39580163633235524096))
+* **deps:** update dependency ts-jest to v27.1.4 ([#58](https://github.com/kunalnagarco/healthie/issues/58)) ([743483c](https://github.com/kunalnagarco/healthie/commit/743483cc726c8acfa200d667f650428da2563fd2))
+
 ### [2.0.9](https://github.com/kunalnagarco/healthie/compare/v2.0.8...v2.0.9) (2022-03-20)
 
 
