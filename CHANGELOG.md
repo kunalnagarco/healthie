@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.12](https://github.com/kunalnagarco/healthie/compare/v2.0.11...v2.0.12) (2022-05-01)
+
+
+### Chores
+
+* **deps:** update dependency eslint-config-prettier to v8.5.0 ([#62](https://github.com/kunalnagarco/healthie/issues/62)) ([7dbacbe](https://github.com/kunalnagarco/healthie/commit/7dbacbe8deedee9c767384b4345eff832d34a9d8))
+
 ### [2.0.11](https://github.com/kunalnagarco/healthie/compare/v2.0.10...v2.0.11) (2022-05-01)
 
 
