@@ -1,5 +1,15 @@
 # Changelog
 
+### [2.0.14](https://github.com/kunalnagarco/healthie/compare/v2.0.13...v2.0.14) (2022-06-04)
+
+
+### Chores
+
+* **deps:** update dependency @types/jest to v27.5.2 ([#67](https://github.com/kunalnagarco/healthie/issues/67)) ([16b96e8](https://github.com/kunalnagarco/healthie/commit/16b96e814dddf8d0ee15b53fcc93a95b3667f77b))
+* **deps:** update dependency eslint to v8.17.0 ([#68](https://github.com/kunalnagarco/healthie/issues/68)) ([2cf5787](https://github.com/kunalnagarco/healthie/commit/2cf5787c2e8d869ed01aaf646baa039fdb443a55))
+* **deps:** update dependency express to v4.18.1 ([#69](https://github.com/kunalnagarco/healthie/issues/69)) ([f742d6c](https://github.com/kunalnagarco/healthie/commit/f742d6c33a84cbadb279ed5532539ba11fd6c0b3))
+* **deps:** update dependency ts-jest to v27.1.5 ([#66](https://github.com/kunalnagarco/healthie/issues/66)) ([619254f](https://github.com/kunalnagarco/healthie/commit/619254f541debdc697296eca658cff9fbbfb5183))
+
 ### [2.0.13](https://github.com/kunalnagarco/healthie/compare/v2.0.12...v2.0.13) (2022-05-02)
 
 
