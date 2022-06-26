@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.15](https://github.com/kunalnagarco/healthie/compare/v2.0.14...v2.0.15) (2022-06-26)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#65](https://github.com/kunalnagarco/healthie/issues/65)) ([cc0df29](https://github.com/kunalnagarco/healthie/commit/cc0df2985e830d854ce42aa6a9f18b2126a2984b))
+* **deps:** update dependency semantic-release to 19.0.3 [security] ([#70](https://github.com/kunalnagarco/healthie/issues/70)) ([04e7dae](https://github.com/kunalnagarco/healthie/commit/04e7daee5ab190eae7477355bf6b91b078643ec5))
+
 ### [2.0.14](https://github.com/kunalnagarco/healthie/compare/v2.0.13...v2.0.14) (2022-06-04)
 
 
