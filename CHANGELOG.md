@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.16](https://github.com/kunalnagarco/healthie/compare/v2.0.15...v2.0.16) (2022-07-03)
+
+
+### Chores
+
+* **deps:** update dependency eslint to v8.19.0 ([#72](https://github.com/kunalnagarco/healthie/issues/72)) ([278e902](https://github.com/kunalnagarco/healthie/commit/278e9021fef027b2c0ceb07e63ca888c24bf715e))
+* **deps:** update dependency eslint-plugin-prettier to v4.2.1 ([#73](https://github.com/kunalnagarco/healthie/issues/73)) ([47a6fb2](https://github.com/kunalnagarco/healthie/commit/47a6fb236a0fd125292a9b0cb6d80493db2118f1))
+
 ### [2.0.15](https://github.com/kunalnagarco/healthie/compare/v2.0.14...v2.0.15) (2022-06-26)
 
 
