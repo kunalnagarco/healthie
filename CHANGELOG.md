@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.17](https://github.com/kunalnagarco/healthie/compare/v2.0.16...v2.0.17) (2022-08-01)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/github to v8.0.5 ([#74](https://github.com/kunalnagarco/healthie/issues/74)) ([1124d64](https://github.com/kunalnagarco/healthie/commit/1124d64238b11b1e698bcce35df0328bb02120df))
+* **deps:** update dependency eslint to v8.20.0 ([#75](https://github.com/kunalnagarco/healthie/issues/75)) ([67e10d5](https://github.com/kunalnagarco/healthie/commit/67e10d5719fa45a4d45b8381e9dc928cb48dfc24))
+
 ### [2.0.16](https://github.com/kunalnagarco/healthie/compare/v2.0.15...v2.0.16) (2022-07-03)
 
 
