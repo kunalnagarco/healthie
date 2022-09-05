@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.18](https://github.com/kunalnagarco/healthie/compare/v2.0.17...v2.0.18) (2022-09-05)
+
+
+### Chores
+
+* **deps:** update dependency eslint to v8.23.0 ([#79](https://github.com/kunalnagarco/healthie/issues/79)) ([70c2b7b](https://github.com/kunalnagarco/healthie/commit/70c2b7bbd9bdf236571642e514596187d8efb741))
+* **deps:** update semantic-release monorepo ([#78](https://github.com/kunalnagarco/healthie/issues/78)) ([c00463c](https://github.com/kunalnagarco/healthie/commit/c00463c1997db1b9c2744d9cdbd1c9511e1c081f))
+
 ### [2.0.17](https://github.com/kunalnagarco/healthie/compare/v2.0.16...v2.0.17) (2022-08-01)
 
 
