@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.19](https://github.com/kunalnagarco/healthie/compare/v2.0.18...v2.0.19) (2022-09-30)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#71](https://github.com/kunalnagarco/healthie/issues/71)) ([0e07c9e](https://github.com/kunalnagarco/healthie/commit/0e07c9e77d4d6ed162fb140d31af7cba94cb2fdc))
+* **deps:** update dependency prettier to v2.7.1 ([#77](https://github.com/kunalnagarco/healthie/issues/77)) ([4bbdcd6](https://github.com/kunalnagarco/healthie/commit/4bbdcd681ecd5a55ecc01fc7184b754540577263))
+
 ### [2.0.18](https://github.com/kunalnagarco/healthie/compare/v2.0.17...v2.0.18) (2022-09-05)
 
 
