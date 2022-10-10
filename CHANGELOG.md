@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.21](https://github.com/kunalnagarco/healthie/compare/v2.0.20...v2.0.21) (2022-10-10)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#82](https://github.com/kunalnagarco/healthie/issues/82)) ([10fd7b8](https://github.com/kunalnagarco/healthie/commit/10fd7b8c4dd9394215870054c901e8d94bc86ccc))
+* **deps:** update dependency express to v4.18.2 ([#80](https://github.com/kunalnagarco/healthie/issues/80)) ([0b0d792](https://github.com/kunalnagarco/healthie/commit/0b0d792932ec0b272a3a3222ee98fef9485bb4cb))
+
 ### [2.0.20](https://github.com/kunalnagarco/healthie/compare/v2.0.19...v2.0.20) (2022-09-30)
 
 
