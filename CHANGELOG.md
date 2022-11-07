@@ -1,5 +1,17 @@
 # Changelog
 
+### [2.0.23](https://github.com/kunalnagarco/healthie/compare/v2.0.22...v2.0.23) (2022-11-07)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#84](https://github.com/kunalnagarco/healthie/issues/84)) ([9650246](https://github.com/kunalnagarco/healthie/commit/96502466a5b411bcaa622f280796597939215b61))
+* **deps:** update dependency eslint to v8.27.0 ([#81](https://github.com/kunalnagarco/healthie/issues/81)) ([61625f1](https://github.com/kunalnagarco/healthie/commit/61625f153a441debebd35c841ea3759f6d24ae89))
+* **deps:** update dependency sort-package-json to v1.57.0 ([#85](https://github.com/kunalnagarco/healthie/issues/85)) ([6ac754b](https://github.com/kunalnagarco/healthie/commit/6ac754ba2d47c2fc34e7eb92d42cc90057b506c5))
+* **deps:** update dependency typescript to v4.8.4 ([#86](https://github.com/kunalnagarco/healthie/issues/86)) ([8db67a1](https://github.com/kunalnagarco/healthie/commit/8db67a158eb34823682215cd8f01e49e69149855))
+* **deps:** update node.js to v16.18.1 ([#87](https://github.com/kunalnagarco/healthie/issues/87)) ([1019fa4](https://github.com/kunalnagarco/healthie/commit/1019fa4d623c7788bc268efbf8eb1ca6daa457c7))
+* **deps:** update typescript-eslint monorepo to v5.42.0 ([#88](https://github.com/kunalnagarco/healthie/issues/88)) ([c36da8f](https://github.com/kunalnagarco/healthie/commit/c36da8f825522c809b5627c5e9028c7b07b9bad3))
+
 ### [2.0.22](https://github.com/kunalnagarco/healthie/compare/v2.0.21...v2.0.22) (2022-10-17)
 
 
