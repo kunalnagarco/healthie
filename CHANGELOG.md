@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.25](https://github.com/kunalnagarco/healthie/compare/v2.0.24...v2.0.25) (2022-12-03)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#90](https://github.com/kunalnagarco/healthie/issues/90)) ([7e304b7](https://github.com/kunalnagarco/healthie/commit/7e304b70b6143730354a8157750f10b0d34c120a))
+* **deps:** update dependency eslint to v8.29.0 ([#92](https://github.com/kunalnagarco/healthie/issues/92)) ([c90f5bc](https://github.com/kunalnagarco/healthie/commit/c90f5bc21f00da28686f8294cebe2c332f8794d7))
+* **deps:** update semantic-release monorepo ([#91](https://github.com/kunalnagarco/healthie/issues/91)) ([e1ace73](https://github.com/kunalnagarco/healthie/commit/e1ace73ccce3695c322be11b3c1cbd795f01d42c))
+
 ### [2.0.24](https://github.com/kunalnagarco/healthie/compare/v2.0.23...v2.0.24) (2022-11-27)
 
 
