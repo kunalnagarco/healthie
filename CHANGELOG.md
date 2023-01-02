@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.27](https://github.com/kunalnagarco/healthie/compare/v2.0.26...v2.0.27) (2023-01-02)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#94](https://github.com/kunalnagarco/healthie/issues/94)) ([4a0743f](https://github.com/kunalnagarco/healthie/commit/4a0743f8376464f2663fa606ed2a5062bd08ead8))
+* **deps:** update dependency @types/express to v4.17.15 ([#95](https://github.com/kunalnagarco/healthie/issues/95)) ([e8dcb75](https://github.com/kunalnagarco/healthie/commit/e8dcb7555c36cde077f06c10ac5cc52335051b90))
+* **deps:** update dependency eslint to v8.31.0 ([#96](https://github.com/kunalnagarco/healthie/issues/96)) ([553438a](https://github.com/kunalnagarco/healthie/commit/553438a6cc8e7ee2caa3901a2fdeab946fd4a012))
+
 ### [2.0.26](https://github.com/kunalnagarco/healthie/compare/v2.0.25...v2.0.26) (2022-12-05)
 
 
