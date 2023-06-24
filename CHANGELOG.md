@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.52](https://github.com/kunalnagarco/healthie/compare/v2.0.51...v2.0.52) (2023-06-24)
+
+
+### Chores
+
+* **deps:** update node.js to v16.20.1 ([#99](https://github.com/kunalnagarco/healthie/issues/99)) ([c1a4eb7](https://github.com/kunalnagarco/healthie/commit/c1a4eb7135fedef73f85144e2ba2d4a4d58937de))
+
 ### [2.0.51](https://github.com/kunalnagarco/healthie/compare/v2.0.50...v2.0.51) (2023-06-19)
 
 
