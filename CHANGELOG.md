@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.54](https://github.com/kunalnagarco/healthie/compare/v2.0.53...v2.0.54) (2023-07-10)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([a0bd094](https://github.com/kunalnagarco/healthie/commit/a0bd094cc6f259d7feb5a0f87c69b9ae70c6cb54))
+
 ### [2.0.53](https://github.com/kunalnagarco/healthie/compare/v2.0.52...v2.0.53) (2023-07-03)
 
 
