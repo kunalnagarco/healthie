@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.60](https://github.com/kunalnagarco/healthie/compare/v2.0.59...v2.0.60) (2023-08-09)
+
+
+### Chores
+
+* **deps:** update semantic-release monorepo ([d3e67be](https://github.com/kunalnagarco/healthie/commit/d3e67be743814e9dd15cc8ec86cbde6b9f3a8e8f))
+
 ### [2.0.59](https://github.com/kunalnagarco/healthie/compare/v2.0.58...v2.0.59) (2023-08-07)
 
 
