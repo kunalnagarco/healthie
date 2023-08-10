@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.64](https://github.com/kunalnagarco/healthie/compare/v2.0.63...v2.0.64) (2023-08-10)
+
+
+### Chores
+
+* **deps:** update dependency prettier to v2.8.8 ([f2cebac](https://github.com/kunalnagarco/healthie/commit/f2cebac29ffd34af4b2031e02d4ce7330fc3d6d0))
+
 ### [2.0.63](https://github.com/kunalnagarco/healthie/compare/v2.0.62...v2.0.63) (2023-08-10)
 
 
