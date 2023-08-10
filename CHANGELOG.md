@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.65](https://github.com/kunalnagarco/healthie/compare/v2.0.64...v2.0.65) (2023-08-10)
+
+
+### Chores
+
+* **deps:** update dependency typescript to v4.9.5 ([4207499](https://github.com/kunalnagarco/healthie/commit/420749910474a86795b7345ea7374866793adf3f))
+
 ### [2.0.64](https://github.com/kunalnagarco/healthie/compare/v2.0.63...v2.0.64) (2023-08-10)
 
 
