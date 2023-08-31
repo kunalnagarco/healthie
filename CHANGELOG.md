@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.1](https://github.com/kunalnagarco/healthie/compare/v2.1.0...v2.1.1) (2023-08-31)
+
+
+### Chores
+
+* Update README ([4d90beb](https://github.com/kunalnagarco/healthie/commit/4d90bebae84f1d0c3872ebc353317262faa0793f))
+
 ## [2.1.0](https://github.com/kunalnagarco/healthie/compare/v2.0.68...v2.1.0) (2023-08-31)
 
 
