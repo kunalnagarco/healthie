@@ -29,7 +29,7 @@
     "uptime",
     "status"
   ],
-  "author": "Kunal Nagar <knlnagar@gmail.com>",
+  "author": "Kunal Nagar <2741371+kunalnagar@users.noreply.github.com>",
   "license": "MIT",
   "lint-staged": {
     "package.json": [

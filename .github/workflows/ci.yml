@@ -12,22 +12,20 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [12.x, 14.x, 16.x, 17.x]
+        node-version: [14.x, 16.x, 18.x, 19.x, 20.x]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install dependencies
-        run: npm install
+        run: yarn install --frozen-lockfile
       - name: Lint code
-        run: npm run lint
+        run: yarn lint
       - name: Create build
-        run: npm run build
+        run: yarn build
       - name: Run tests
-        run: npm test
-      - name: Upload test coverage
-        uses: codecov/codecov-action@v1
+        run: yarn test
       - name: Create release tarball (dry-run)
         run: npm pack
