@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/kunalnagarco/healthie/compare/v2.0.68...v2.1.0) (2023-08-31)
+
+
+### Features
+
+* Upgrade deps ([#100](https://github.com/kunalnagarco/healthie/issues/100)) ([4a4bcc9](https://github.com/kunalnagarco/healthie/commit/4a4bcc97d110548e4a24579e544c0787560fb5e1))
+
 ### [2.0.68](https://github.com/kunalnagarco/healthie/compare/v2.0.67...v2.0.68) (2023-08-28)
 
 
