@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.9](https://github.com/kunalnagarco/healthie/compare/v2.1.8...v2.1.9) (2023-10-01)
+
+
+### Chores
+
+* **deps:** update dependency @types/express to v4.17.18 ([7bdbc0b](https://github.com/kunalnagarco/healthie/commit/7bdbc0b4d62fcf669bf68e3682e867c48e4a1a39))
+
 ### [2.1.8](https://github.com/kunalnagarco/healthie/compare/v2.1.7...v2.1.8) (2023-09-25)
 
 
