@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.22](https://github.com/kunalnagarco/healthie/compare/v2.1.21...v2.1.22) (2023-12-01)
+
+
+### Chores
+
+* **deps:** update dependency eslint to v8.54.0 ([f1b357e](https://github.com/kunalnagarco/healthie/commit/f1b357ec33a75331fd17e01f22ec7f690d4826ef))
+
 ### [2.1.21](https://github.com/kunalnagarco/healthie/compare/v2.1.20...v2.1.21) (2023-12-01)
 
 
