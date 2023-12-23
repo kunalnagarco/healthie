@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.26](https://github.com/kunalnagarco/healthie/compare/v2.1.25...v2.1.26) (2023-12-23)
+
+
+### Chores
+
+* **deps:** update actions/checkout action to v4 ([#101](https://github.com/kunalnagarco/healthie/issues/101)) ([a818c74](https://github.com/kunalnagarco/healthie/commit/a818c74d81420d176b1b7e52f4cc4a0ce2459cf8))
+
 ### [2.1.25](https://github.com/kunalnagarco/healthie/compare/v2.1.24...v2.1.25) (2023-12-18)
 
 
