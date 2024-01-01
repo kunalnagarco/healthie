@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.29](https://github.com/kunalnagarco/healthie/compare/v2.1.28...v2.1.29) (2024-01-01)
+
+
+### Chores
+
+* **deps:** update dependency eslint-plugin-import to v2.29.1 ([3bd749a](https://github.com/kunalnagarco/healthie/commit/3bd749a1f00191399e7073b9ca6e7f02c5dfa156))
+
 ### [2.1.28](https://github.com/kunalnagarco/healthie/compare/v2.1.27...v2.1.28) (2024-01-01)
 
 
