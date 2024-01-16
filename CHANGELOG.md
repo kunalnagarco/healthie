@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/kunalnagarco/healthie/compare/v2.1.31...v3.0.0) (2024-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop support for Node 14
+
+### Features
+
+* Drop support for Node 14 ([#103](https://github.com/kunalnagarco/healthie/issues/103)) ([ffcb89c](https://github.com/kunalnagarco/healthie/commit/ffcb89ca82c098b8336ae924a7550fd055bd7118))
+
 ### [2.1.31](https://github.com/kunalnagarco/healthie/compare/v2.1.30...v2.1.31) (2024-01-15)
 
 
