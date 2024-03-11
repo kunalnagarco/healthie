@@ -1,5 +1,45 @@
 # Changelog
 
+## [4.0.0](https://github.com/kunalnagarco/healthie/compare/v3.0.0...v4.0.0) (2024-03-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove multiple node version testing
+* Deprecate Node 16 as it is out of maintenance
+
+### Features
+
+* Deprecate Node 16 ([#116](https://github.com/kunalnagarco/healthie/issues/116)) ([7a82955](https://github.com/kunalnagarco/healthie/commit/7a82955fbfc88f94742b8a49737ad841e15cd8b9))
+* Remove matrix check for CI/CD ([#117](https://github.com/kunalnagarco/healthie/issues/117)) ([edd8440](https://github.com/kunalnagarco/healthie/commit/edd8440dda0c92bb3368cfc9c53fe31397589624))
+
+
+### Chores
+
+* **deps:** lock file maintenance ([9dec6c9](https://github.com/kunalnagarco/healthie/commit/9dec6c93f7d01829774282474c62509c3f7b3b67))
+* **deps:** lock file maintenance ([3803f3d](https://github.com/kunalnagarco/healthie/commit/3803f3d7d1e5f409e62f69e919643140a79b4b6a))
+* **deps:** lock file maintenance ([824d557](https://github.com/kunalnagarco/healthie/commit/824d557c9337264693c44014df80fefac35a2461))
+* **deps:** lock file maintenance ([ba77858](https://github.com/kunalnagarco/healthie/commit/ba77858c6861b3d07c5801e5552f7b7e6112a4ee))
+* **deps:** lock file maintenance ([9a88712](https://github.com/kunalnagarco/healthie/commit/9a88712446043030c60fce064a22d915e5620771))
+* **deps:** lock file maintenance ([1d31acb](https://github.com/kunalnagarco/healthie/commit/1d31acb3bcae41a8b39fa531689cf5fa712cd247))
+* **deps:** lock file maintenance ([68d2de1](https://github.com/kunalnagarco/healthie/commit/68d2de1d411b5fe031b71a9a4324d8d327d63c84))
+* **deps:** lock file maintenance ([c14fdbc](https://github.com/kunalnagarco/healthie/commit/c14fdbcc7db931115b82cbe113da78286c6d3c04))
+* **deps:** update actions/setup-node action to v4 ([#104](https://github.com/kunalnagarco/healthie/issues/104)) ([006aebe](https://github.com/kunalnagarco/healthie/commit/006aebe7bb0aef7cefa5d13c8ef3bce50ffb77c4))
+* **deps:** update dependency conventional-changelog-conventionalcommits to v7 ([#102](https://github.com/kunalnagarco/healthie/issues/102)) ([e7945d4](https://github.com/kunalnagarco/healthie/commit/e7945d4801f689aca76857576d9311e3aea21b19))
+* **deps:** update dependency eslint to v8.57.0 ([887c8df](https://github.com/kunalnagarco/healthie/commit/887c8df9c0c8300b643e5804bca06ca4c91039ea))
+* **deps:** update dependency eslint-config-prettier to v9 ([#105](https://github.com/kunalnagarco/healthie/issues/105)) ([dce25a5](https://github.com/kunalnagarco/healthie/commit/dce25a55bdef45537ce4a7df82e212710120166d))
+* **deps:** update dependency express to v4.18.3 ([467d9ac](https://github.com/kunalnagarco/healthie/commit/467d9ac3367ed5c6e92a7633e1bb76c044737bb1))
+* **deps:** update dependency husky to v9 ([#108](https://github.com/kunalnagarco/healthie/issues/108)) ([a8bb968](https://github.com/kunalnagarco/healthie/commit/a8bb968ab99319828fa7d3fdf40d50c3be2a2876))
+* **deps:** update dependency lint-staged to v15 ([#109](https://github.com/kunalnagarco/healthie/issues/109)) ([f195e23](https://github.com/kunalnagarco/healthie/commit/f195e23b4352d8fc20c367c296d1ee44520130a5))
+* **deps:** update dependency node to v20.11.1 ([#106](https://github.com/kunalnagarco/healthie/issues/106)) ([07fd774](https://github.com/kunalnagarco/healthie/commit/07fd77405e0893d10246d9d31513e05616316311))
+* **deps:** update dependency sort-package-json to v2 ([#111](https://github.com/kunalnagarco/healthie/issues/111)) ([70c422f](https://github.com/kunalnagarco/healthie/commit/70c422f2a5a1728a9d3dd1c2559a6c4eb47c32c2))
+* **deps:** update dependency typescript to v5 ([#112](https://github.com/kunalnagarco/healthie/issues/112)) ([91ddcbb](https://github.com/kunalnagarco/healthie/commit/91ddcbb015bf129adca9d162fb0df3bc18fa2c20))
+* **deps:** update dependency typescript to v5.4.2 ([9ed1020](https://github.com/kunalnagarco/healthie/commit/9ed10200e52bf938d64f5c9a0072552eae34f7cd))
+* **deps:** update semantic-release monorepo ([#114](https://github.com/kunalnagarco/healthie/issues/114)) ([92a1ee6](https://github.com/kunalnagarco/healthie/commit/92a1ee615401df08719bad3238ae61b2842e51ae))
+* **deps:** update typescript-eslint monorepo to v7 ([#115](https://github.com/kunalnagarco/healthie/issues/115)) ([def42b8](https://github.com/kunalnagarco/healthie/commit/def42b87447b7cac92e5c6b8e2adc30ab296723a))
+* **deps:** update typescript-eslint monorepo to v7.1.0 ([cefe992](https://github.com/kunalnagarco/healthie/commit/cefe9928183c663762d98ff2bb8e7948577a34d2))
+* **deps:** update typescript-eslint monorepo to v7.1.1 ([b67322e](https://github.com/kunalnagarco/healthie/commit/b67322ebeebce422f9e3a29850529526c74aa66e))
+
 ## [3.0.0](https://github.com/kunalnagarco/healthie/compare/v2.1.31...v3.0.0) (2024-01-16)
 
 
