@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.2](https://github.com/kunalnagarco/healthie/compare/v4.1.1...v4.1.2) (2024-03-13)
+
+
+### Bug Fixes
+
+* Yarn install in CD step ([#120](https://github.com/kunalnagarco/healthie/issues/120)) ([ef888a7](https://github.com/kunalnagarco/healthie/commit/ef888a7f24aa9910c9b362718a4ddb8f5609c90d))
+
 ## [4.1.1](https://github.com/kunalnagarco/healthie/compare/v4.1.0...v4.1.1) (2024-03-13)
 
 
