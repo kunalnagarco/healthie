@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.1.0](https://github.com/kunalnagarco/healthie/compare/v4.0.0...v4.1.0) (2024-03-13)
+
+
+### Features
+
+* Upgrade yarn ([#118](https://github.com/kunalnagarco/healthie/issues/118)) ([b1db688](https://github.com/kunalnagarco/healthie/commit/b1db68821dc4e1e04ea83b07f11fd3a0950afe69))
+
+
+### Chores
+
+* **deps:** update jest monorepo to v29 ([#113](https://github.com/kunalnagarco/healthie/issues/113)) ([b84b6bf](https://github.com/kunalnagarco/healthie/commit/b84b6bfab0a1f68b154c6a46c1326df468ec5606))
+* **deps:** update typescript-eslint monorepo to v7.2.0 ([496d1d7](https://github.com/kunalnagarco/healthie/commit/496d1d7fc480f1f1ba22e5a4034355e3fbad48e3))
+
 ## [4.0.0](https://github.com/kunalnagarco/healthie/compare/v3.0.0...v4.0.0) (2024-03-11)
 
 
