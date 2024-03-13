@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/kunalnagarco/healthie/compare/v4.1.0...v4.1.1) (2024-03-13)
+
+
+### Chores
+
+* Upgrade prettier ([#119](https://github.com/kunalnagarco/healthie/issues/119)) ([6c24a62](https://github.com/kunalnagarco/healthie/commit/6c24a6207b12d40f13647711a2abf55dc7daf8ed))
+
 ## [4.1.0](https://github.com/kunalnagarco/healthie/compare/v4.0.0...v4.1.0) (2024-03-13)
 
 
