@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
       - name: Get node version
         id: node
         run: echo "::set-output name=version::$(node -v)"
@@ -26,6 +25,8 @@ jobs:
           path: |
             **/node_modules
           key: ${{ runner.os }}-node_modules-${{ hashFiles('**/yarn.lock') }}-${{ steps.node.outputs.version }}
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
       - name: Create build
         run: yarn build
       - name: Release

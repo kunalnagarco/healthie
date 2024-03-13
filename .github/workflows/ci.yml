@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
       - name: Get node version
         id: node
         run: echo "::set-output name=version::$(node -v)"
