@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.9](https://github.com/kunalnagarco/healthie/compare/v4.1.8...v4.1.9) (2024-03-20)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/commit-analyzer to v12 ([#122](https://github.com/kunalnagarco/healthie/issues/122)) ([c251375](https://github.com/kunalnagarco/healthie/commit/c2513756402d74de64fca5457f6003b4d112c09a))
+
 ## [4.1.8](https://github.com/kunalnagarco/healthie/compare/v4.1.7...v4.1.8) (2024-03-19)
 
 
