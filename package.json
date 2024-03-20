@@ -60,7 +60,7 @@
     "semantic-release": "23.0.5",
     "sort-package-json": "2.8.0",
     "ts-jest": "29.1.2",
-    "typescript": "5.4.2"
+    "typescript": "5.4.3"
   },
   "peerDependencies": {
     "express": "4.x"
