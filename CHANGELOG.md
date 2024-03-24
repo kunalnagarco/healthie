@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.13](https://github.com/kunalnagarco/healthie/compare/v4.1.12...v4.1.13) (2024-03-24)
+
+
+### Chores
+
+* **deps:** update dependency semantic-release to v23.0.6 ([faa1a04](https://github.com/kunalnagarco/healthie/commit/faa1a044bd5f3c1b49442cc425421fdeea203bed))
+
 ## [4.1.12](https://github.com/kunalnagarco/healthie/compare/v4.1.11...v4.1.12) (2024-03-21)
 
 
