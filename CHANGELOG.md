@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.1.18](https://github.com/kunalnagarco/healthie/compare/v4.1.17...v4.1.18) (2024-03-28)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v13 ([#123](https://github.com/kunalnagarco/healthie/issues/123)) ([36396b4](https://github.com/kunalnagarco/healthie/commit/36396b48da07db89aae67d1cd873d2575340c79a))
+* **deps:** update dependency node to v20.12.0 ([#124](https://github.com/kunalnagarco/healthie/issues/124)) ([e9c627a](https://github.com/kunalnagarco/healthie/commit/e9c627ab55a049fdd587834938d6a870436447d3))
+
 ## [4.1.17](https://github.com/kunalnagarco/healthie/compare/v4.1.16...v4.1.17) (2024-03-26)
 
 
