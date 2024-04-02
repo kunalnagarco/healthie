@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.21](https://github.com/kunalnagarco/healthie/compare/v4.1.20...v4.1.21) (2024-04-02)
+
+
+### Chores
+
+* **deps:** update typescript-eslint monorepo to v7.5.0 ([cffb197](https://github.com/kunalnagarco/healthie/commit/cffb19799c814e7deb9980d28766c26b42b5cb30))
+
 ## [4.1.20](https://github.com/kunalnagarco/healthie/compare/v4.1.19...v4.1.20) (2024-04-01)
 
 
