@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.23](https://github.com/kunalnagarco/healthie/compare/v4.1.22...v4.1.23) (2024-04-04)
+
+
+### Chores
+
+* **deps:** update dependency typescript to v5.4.4 ([6ec264c](https://github.com/kunalnagarco/healthie/commit/6ec264cf24d72006e34c413c8ce980d3ecc8dc75))
+
 ## [4.1.22](https://github.com/kunalnagarco/healthie/compare/v4.1.21...v4.1.22) (2024-04-03)
 
 
