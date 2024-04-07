@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.24](https://github.com/kunalnagarco/healthie/compare/v4.1.23...v4.1.24) (2024-04-07)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/github to v10.0.3 ([b789275](https://github.com/kunalnagarco/healthie/commit/b7892750ee458dae88adaa10f5ae60e4332dd08a))
+
 ## [4.1.23](https://github.com/kunalnagarco/healthie/compare/v4.1.22...v4.1.23) (2024-04-04)
 
 
