@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.26](https://github.com/kunalnagarco/healthie/compare/v4.1.25...v4.1.26) (2024-04-08)
+
+
+### Chores
+
+* **deps:** update typescript-eslint monorepo to v7.6.0 ([100f51e](https://github.com/kunalnagarco/healthie/commit/100f51e51a1ec677728f78dd2b02c8b2a7d3fcc8))
+
 ## [4.1.25](https://github.com/kunalnagarco/healthie/compare/v4.1.24...v4.1.25) (2024-04-08)
 
 
