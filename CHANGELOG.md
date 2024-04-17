@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.27](https://github.com/kunalnagarco/healthie/compare/v4.1.26...v4.1.27) (2024-04-17)
+
+
+### Chores
+
+* **deps:** update dependency node to v20.12.2 ([#125](https://github.com/kunalnagarco/healthie/issues/125)) ([24cabbe](https://github.com/kunalnagarco/healthie/commit/24cabbeb2a7e9ea46a6722ff3f8e04351342f5df))
+
 ## [4.1.26](https://github.com/kunalnagarco/healthie/compare/v4.1.25...v4.1.26) (2024-04-08)
 
 
