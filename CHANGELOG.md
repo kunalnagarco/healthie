@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.1.31](https://github.com/kunalnagarco/healthie/compare/v4.1.30...v4.1.31) (2024-07-07)
+
+### Chores
+
+* **deps:** update dependency conventional-changelog-conventionalcommits to v8 ([#129](https://github.com/kunalnagarco/healthie/issues/129)) ([dd21acd](https://github.com/kunalnagarco/healthie/commit/dd21acdde15c38ee149c4b95e0788c16bac8947c))
+* **deps:** update dependency node to v20.14.0 ([#127](https://github.com/kunalnagarco/healthie/issues/127)) ([80139ee](https://github.com/kunalnagarco/healthie/commit/80139ee4c93483444fe4120343c9eef8d793ea4f))
+* **deps:** update dependency node to v20.15.0 ([#131](https://github.com/kunalnagarco/healthie/issues/131)) ([5d95834](https://github.com/kunalnagarco/healthie/commit/5d95834ded49b39dbc493d6f5e2fca297b1115b0))
+* **deps:** update dependency ts-jest to v29.1.5 ([32374d6](https://github.com/kunalnagarco/healthie/commit/32374d66960e671ac043f6d0fb8392d0b685727f))
+* **deps:** update semantic-release monorepo ([#132](https://github.com/kunalnagarco/healthie/issues/132)) ([3744964](https://github.com/kunalnagarco/healthie/commit/374496461a37d610b248c2bc226b9191c7855728))
+* **deps:** update yarn to v4.2.2 ([#128](https://github.com/kunalnagarco/healthie/issues/128)) ([e2a51f7](https://github.com/kunalnagarco/healthie/commit/e2a51f79286782893f5b70cf7bf1f07f19c80ae8))
+
 ## [4.1.30](https://github.com/kunalnagarco/healthie/compare/v4.1.29...v4.1.30) (2024-06-01)
 
 
