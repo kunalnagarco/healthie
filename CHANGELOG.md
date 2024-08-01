@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.1.32](https://github.com/kunalnagarco/healthie/compare/v4.1.31...v4.1.32) (2024-08-01)
+
+### Chores
+
+* **deps:** update dependency lint-staged to v15.2.7 ([432a4b9](https://github.com/kunalnagarco/healthie/commit/432a4b9f3e88b0371a7d60436eba64c212a6d886))
+
 ## [4.1.31](https://github.com/kunalnagarco/healthie/compare/v4.1.30...v4.1.31) (2024-07-07)
 
 ### Chores
