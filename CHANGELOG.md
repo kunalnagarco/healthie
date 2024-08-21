@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.0](https://github.com/kunalnagarco/healthie/compare/v4.1.33...v4.2.0) (2024-08-21)
+
+### Features
+
+* Upgrade deps ([#134](https://github.com/kunalnagarco/healthie/issues/134)) ([084cd75](https://github.com/kunalnagarco/healthie/commit/084cd75464902b8dec00e39143ef3aa237210cc0))
+
 ## [4.1.33](https://github.com/kunalnagarco/healthie/compare/v4.1.32...v4.1.33) (2024-08-02)
 
 ### Chores
