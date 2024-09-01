@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.2](https://github.com/kunalnagarco/healthie/compare/v4.2.1...v4.2.2) (2024-09-01)
+
+### Chores
+
+* **deps:** update dependency sort-package-json to v2.10.1 ([a1832fa](https://github.com/kunalnagarco/healthie/commit/a1832fa12fdb8a6b7fcf3d49b8f1293cea3b1e64))
+
 ## [4.2.1](https://github.com/kunalnagarco/healthie/compare/v4.2.0...v4.2.1) (2024-09-01)
 
 ### Chores
