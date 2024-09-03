@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.3](https://github.com/kunalnagarco/healthie/compare/v4.2.2...v4.2.3) (2024-09-03)
+
+### Chores
+
+* **deps:** update dependency node to v20.17.0 ([#135](https://github.com/kunalnagarco/healthie/issues/135)) ([a94ec9f](https://github.com/kunalnagarco/healthie/commit/a94ec9f917227685f16d4c88aff40611d9c6a791))
+* **deps:** update yarn to v4.4.1 ([#136](https://github.com/kunalnagarco/healthie/issues/136)) ([359f24e](https://github.com/kunalnagarco/healthie/commit/359f24e8691e294a32ef5e501a3b6556e877e235))
+
 ## [4.2.2](https://github.com/kunalnagarco/healthie/compare/v4.2.1...v4.2.2) (2024-09-01)
 
 ### Chores
