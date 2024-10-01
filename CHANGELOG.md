@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.5](https://github.com/kunalnagarco/healthie/compare/v4.2.4...v4.2.5) (2024-10-01)
+
+### Chores
+
+* **deps:** update dependency ts-jest to v29.2.5 ([3a85e83](https://github.com/kunalnagarco/healthie/commit/3a85e831441162d9872238468134555b52fe9641))
+
 ## [4.2.4](https://github.com/kunalnagarco/healthie/compare/v4.2.3...v4.2.4) (2024-09-22)
 
 ### Chores
