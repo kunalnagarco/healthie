@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.9](https://github.com/kunalnagarco/healthie/compare/v4.2.8...v4.2.9) (2024-12-01)
+
+### Chores
+
+* **deps:** update dependency @types/jest to v29.5.14 ([5e5c1e9](https://github.com/kunalnagarco/healthie/commit/5e5c1e9a33c3789e05200d73e3c4e487ff137bc4))
+
 ## [4.2.8](https://github.com/kunalnagarco/healthie/compare/v4.2.7...v4.2.8) (2024-11-01)
 
 ### Chores
