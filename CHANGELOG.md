@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.10](https://github.com/kunalnagarco/healthie/compare/v4.2.9...v4.2.10) (2025-01-01)
+
+### Chores
+
+* **deps:** update dependency express to v4.21.2 ([d9b0353](https://github.com/kunalnagarco/healthie/commit/d9b0353e3047e512e6997447ab94280a98669dbb))
+
 ## [4.2.9](https://github.com/kunalnagarco/healthie/compare/v4.2.8...v4.2.9) (2024-12-01)
 
 ### Chores
