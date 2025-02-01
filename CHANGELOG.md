@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.12](https://github.com/kunalnagarco/healthie/compare/v4.2.11...v4.2.12) (2025-02-01)
+
+### Chores
+
+* **deps:** update dependency eslint-plugin-prettier to v5.2.3 ([61a5725](https://github.com/kunalnagarco/healthie/commit/61a5725bad876b172808dbf0288af8de3fe7aece))
+
 ## [4.2.11](https://github.com/kunalnagarco/healthie/compare/v4.2.10...v4.2.11) (2025-02-01)
 
 ### Chores
