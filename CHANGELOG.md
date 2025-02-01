@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.11](https://github.com/kunalnagarco/healthie/compare/v4.2.10...v4.2.11) (2025-02-01)
+
+### Chores
+
+* **deps:** update dependency husky to v9.1.7 ([dde6dea](https://github.com/kunalnagarco/healthie/commit/dde6dea6ce851f936e5307359f9db012e15c4bba))
+
 ## [4.2.10](https://github.com/kunalnagarco/healthie/compare/v4.2.9...v4.2.10) (2025-01-01)
 
 ### Chores
