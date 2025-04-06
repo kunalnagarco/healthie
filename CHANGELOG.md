@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.17](https://github.com/kunalnagarco/healthie/compare/v4.2.16...v4.2.17) (2025-04-06)
+
+### Chores
+
+* **deps:** update node.js to v20.19.0 ([#142](https://github.com/kunalnagarco/healthie/issues/142)) ([50839e9](https://github.com/kunalnagarco/healthie/commit/50839e9031c5c2736930240ff6b4e77d4d3e30fb))
+
 ## [4.2.16](https://github.com/kunalnagarco/healthie/compare/v4.2.15...v4.2.16) (2025-04-01)
 
 ### Chores
