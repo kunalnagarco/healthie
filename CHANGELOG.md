@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.19](https://github.com/kunalnagarco/healthie/compare/v4.2.18...v4.2.19) (2025-05-30)
+
+### Chores
+
+* **deps:** update node.js to v20.19.2 ([#143](https://github.com/kunalnagarco/healthie/issues/143)) ([d6d1beb](https://github.com/kunalnagarco/healthie/commit/d6d1beb6d808a122d0be1f7192bebb18779bdab1))
+* **deps:** update yarn to v4.9.1 ([#144](https://github.com/kunalnagarco/healthie/issues/144)) ([5e354dc](https://github.com/kunalnagarco/healthie/commit/5e354dcf5bcd7de4e87fb3de119249ba1d55c23b))
+
 ## [4.2.18](https://github.com/kunalnagarco/healthie/compare/v4.2.17...v4.2.18) (2025-05-01)
 
 ### Chores
