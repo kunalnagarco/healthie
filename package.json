@@ -1,6 +1,6 @@
 {
   "name": "@kunalnagarco/healthie",
-  "version": "4.2.20",
+  "version": "4.2.21",
   "description": "A health check middleware for Express.js applications",
   "repository": {
     "type": "git",
