@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.2.22](https://github.com/kunalnagarco/healthie/compare/v4.2.21...v4.2.22) (2025-11-03)
+
+### Chores
+
+* **deps:** update node.js to v20.19.5 ([#145](https://github.com/kunalnagarco/healthie/issues/145)) ([6ad1283](https://github.com/kunalnagarco/healthie/commit/6ad1283f92952a3adbc70250c1b289a8391dc71f))
+
 ## [4.2.21](https://github.com/kunalnagarco/healthie/compare/v4.2.20...v4.2.21) (2025-11-01)
 
 ### Chores
